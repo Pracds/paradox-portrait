@@ -1,0 +1,6 @@
+{
+  "prompt": "A photorealistic macro and wide field photograph of a meadow full of dandelions at golden dusk light. Each dandelion has a different density of seeds — some sparse with only a few seeds remaining, some moderately full, a few extremely dense and full. Every sparse and moderately full dandelion subtly leans or faces toward a nearby denser dandelion, as if drawn to it. The densest dandelions are surrounded by many leaning neighbors all oriented toward them. But the single most dense and full dandelion in the entire field — the one every other flower seems to lean toward — stands perfectly upright, isolated, with no other dandelion as full as itself nearby. The whole field has a gravitational visual pull toward fullness, but fullness itself is solitary. The composition makes this hierarchy feel inevitable and slightly uncanny. Shallow depth of field, warm golden light, photorealistic, physically plausible. No text. No labels. No numbers. No diagrams. No people.",
+  "model": "DALL-E 3 via ChatGPT",
+  "paradox": "The Friendship Paradox",
+  "visual_logic": "Dandelions of varying seed density lean toward denser neighbors; the densest is surrounded by many but has none as full as itself — every node connects to hubs more connected than itself."
+}
